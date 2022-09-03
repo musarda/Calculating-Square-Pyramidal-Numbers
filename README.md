@@ -2,7 +2,7 @@
 
 - [ Code ](https://github.com/musarda/Calculating-Square-Pyramidal-Numbers/blob/main/code.cs)
 
-Output:
+# Output:
 
 ![Ekran Alıntısı554545](https://user-images.githubusercontent.com/107439786/188219885-baf32959-5470-4a9b-9d7b-238cf7090c1a.PNG)
 
